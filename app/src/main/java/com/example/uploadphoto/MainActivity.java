@@ -89,7 +89,7 @@ public class MainActivity<imageUri, uploadTask> extends AppCompatActivity {
 
 
                         }
-
+//hulalallalalala
                         @Override
                         public void onCancelled(@NonNull DatabaseError error) {
 
